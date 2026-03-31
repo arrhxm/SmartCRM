@@ -1,0 +1,963 @@
+name,contact_number,date,product,amount_spend
+Tom Martinez,+15625581066,2023-01-01,Dress,68.85
+Tom White,+11117296120,2023-01-02,Biography,19.16
+Jake Martin,+13268935245,2023-01-02,Jeans,73.6
+Sarah Rodriguez,+13224922397,2023-01-03,Dumbells,231.94
+Helen Brown,+12687713765,2023-01-03,Jacket,66.07
+Amy Clark,+16173983526,2023-01-03,Gaming Console,289.4
+Mark Jackson,+16823018551,2023-01-07,Tennis Racket,164.26
+Mark Robinson,+11791059722,2023-01-08,Lipstick,22.92
+Kate Smith,+18420188869,2023-01-10,Shoes,91.5
+Cara Harris,+16473695168,2023-01-11,Children's Book,40.77
+Amy Wilson,+11124114760,2023-01-11,Self-Help Book,32.63
+Alex Clark,+19650452392,2023-01-12,Basketball,274.36
+Lisa Moore,+17999316520,2023-01-13,Cheese,70.06
+Peter Wilson,+12666181720,2023-01-14,Snacks,83.3
+Olivia Robinson,+11783649634,2023-01-14,Smartwatch,225.36
+Lucy Clark,+13691362032,2023-01-14,Chocolate,52.85
+Anna Jackson,+11147407646,2023-01-16,Smartphone,432.53
+Tom Jackson,+12023516681,2023-01-16,Biography,42.68
+Amy Davis,+18068056500,2023-01-17,Fiction Novel,35.02
+Maria Martinez,+16724800204,2023-01-17,Chocolate,36.2
+Jake Anderson,+18962762699,2023-01-18,Smartwatch,564.95
+Luke Lewis,+17632676346,2023-01-19,Headphones,753.62
+James Smith,+16890811761,2023-01-19,Chocolate,15.8
+Mike Martin,+13312182912,2023-01-22,Foundation,47.82
+Helen Brown,+12687713765,2023-01-23,Dress,98.76
+Sarah Brown,+19929816665,2023-01-23,Tennis Racket,42.34
+Jake Taylor,+19628745058,2023-01-24,Organic Coffee,41.75
+Amy Wilson,+12474469827,2023-01-24,Plant,113.04
+Luke Garcia,+12141447185,2023-01-24,Organic Coffee,12.89
+Alex Lewis,+15295332903,2023-01-25,Hat,71.91
+Mike Johnson,+12947007311,2023-01-25,Lipstick,30.9
+Nina Smith,+18890031829,2023-01-26,Perfume,37.42
+Anna Wilson,+12359562797,2023-01-26,Lipstick,46.84
+Lucy White,+12450388602,2023-01-26,Face Cream,49.62
+Peter Wilson,+12666181720,2023-01-27,Technical Manual,33.33
+Alex Lewis,+12877893629,2023-01-28,Shoes,37.18
+Chris Davis,+14728027638,2023-01-28,Candle,204.91
+Olivia Davis,+19794266238,2023-01-29,Gaming Console,76.55
+John Martinez,+11515019937,2023-01-30,Basketball,315.02
+John Johnson,+10042051360,2023-01-31,Self-Help Book,39.89
+John Jackson,+15340352714,2023-01-31,Blanket,82.39
+Jake Taylor,+19628745058,2023-02-01,Scarf,42.88
+Jake Martinez,+12200351978,2023-02-01,Blanket,103.45
+Julia Martinez,+14719760524,2023-02-01,Organic Coffee,29.59
+Maria Martinez,+16724800204,2023-02-01,Tea,23.63
+Nina Smith,+18890031829,2023-02-02,Candle,41.64
+Nina Johnson,+13577826797,2023-02-03,Yoga Mat,170.98
+Alex Davis,+11642211937,2023-02-03,Tennis Racket,215.35
+Maria Harris,+17907780083,2023-02-03,Water Bottle,282.18
+Amy Clark,+16173983526,2023-02-04,Lamp,238.39
+Nina Smith,+18697059447,2023-02-05,Vacuum Cleaner,165.89
+Sarah Wilson,+17787237095,2023-02-05,Blanket,117.56
+Lucy Jackson,+11946049311,2023-02-05,Smartwatch,494.16
+Olivia Davis,+16232860574,2023-02-06,Yoga Mat,185.04
+Alex Lewis,+15295332903,2023-02-06,Tablet,775.79
+Alex Wilson,+16022134793,2023-02-07,Tablet,160.85
+Sam Lewis,+15610120991,2023-02-07,Dress,119.09
+Peter Thomas,+19417397237,2023-02-08,Laptop,563.31
+Alex Rodriguez,+17291910589,2023-02-08,Cheese,10.57
+Sarah White,+13198029925,2023-02-08,Blanket,175.44
+Chris Miller,+12140160927,2023-02-08,Cookbook,33.26
+Jake Anderson,+18962762699,2023-02-09,Chocolate,39.63
+Sarah Rodriguez,+13224922397,2023-02-09,Running Shoes,82.08
+Helen Brown,+12687713765,2023-02-09,Foundation,78.12
+Alex Davis,+11642211937,2023-02-10,Self-Help Book,37.1
+Cara Harris,+16473695168,2023-02-10,Organic Coffee,9.38
+Helen Jackson,+19988127943,2023-02-11,Fiction Novel,53.09
+Mike Miller,+16552886207,2023-02-12,Pillow,58.06
+Sam Moore,+13632031862,2023-02-12,Self-Help Book,47.27
+Helen Rodriguez,+17561871473,2023-02-12,Shampoo,40.64
+Chris Davis,+14728027638,2023-02-13,Cookbook,56.09
+Sarah Brown,+19029947914,2023-02-13,Shoes,75.2
+Jake Lewis,+11353174536,2023-02-13,Tea,57.12
+Alex Clark,+19650452392,2023-02-14,Water Bottle,246.98
+Jake Robinson,+19272793565,2023-02-14,Cookbook,18.19
+Emma Anderson,+18433695159,2023-02-14,Candle,42.09
+Sarah White,+13198029925,2023-02-15,Pillow,83.33
+Sam Lewis,+15610120991,2023-02-15,Water Bottle,46.92
+Kevin Martin,+13827809373,2023-02-15,Headphones,491.38
+Sarah Wilson,+17787237095,2023-02-15,Jacket,84.3
+Olivia Davis,+19794266238,2023-02-15,Laptop,414.78
+Olivia Davis,+16232860574,2023-02-16,Cookbook,41.1
+Jake Lewis,+11353174536,2023-02-17,Biography,10.59
+Ryan Clark,+14391263579,2023-02-17,Self-Help Book,63.32
+Kate Smith,+18420188869,2023-02-17,Laptop,74.11
+Luke Lewis,+17632676346,2023-02-18,Children's Book,57.62
+Olivia Wilson,+11658126734,2023-02-18,Coffee Maker,72.5
+Alex Thomas,+19307445188,2023-02-19,Tennis Racket,26.48
+Julia Thomas,+19269005147,2023-02-19,Organic Coffee,21.12
+Kate Lewis,+12132093466,2023-02-21,Sweater,105.83
+Mike Martin,+13312182912,2023-02-21,Biography,33.85
+Alex Thomas,+19307445188,2023-02-21,Fiction Novel,45.47
+Alex Rodriguez,+17291910589,2023-02-21,Fiction Novel,15.66
+Olivia Davis,+16232860574,2023-02-22,Self-Help Book,18.14
+Lucy Johnson,+11829710017,2023-02-22,Foundation,32.07
+Alex Davis,+11642211937,2023-02-23,Face Cream,61.27
+Mike Johnson,+12947007311,2023-02-26,Tea,35.98
+Sarah Smith,+19016349380,2023-02-26,Lamp,33.53
+Cara Harris,+16473695168,2023-02-27,Lamp,100.97
+Olivia Wilson,+11658126734,2023-02-27,Chocolate,51.04
+Chris Miller,+12140160927,2023-02-28,Organic Coffee,53.13
+Julia Martin,+11520507391,2023-02-28,Tennis Racket,198.85
+Sophie Johnson,+16909635463,2023-02-28,Tea,39.03
+Lucy White,+12450388602,2023-02-28,Snacks,53.04
+Anna Martin,+12857916233,2023-03-01,Cookbook,45.16
+John Lewis,+15170866755,2023-03-02,Gaming Console,586.88
+Helen Jackson,+19988127943,2023-03-03,Yoga Mat,75.43
+Nina Wilson,+15766540890,2023-03-03,Children's Book,36.65
+Sophie Smith,+12087623244,2023-03-03,Children's Book,63.97
+Nina Smith,+18890031829,2023-03-03,Tablet,409.48
+Olivia Robinson,+11783649634,2023-03-03,Perfume,78.38
+Chris Brown,+12902571215,2023-03-04,Smartwatch,704.36
+Sarah Brown,+19929816665,2023-03-04,Scarf,155.93
+Julia Thomas,+19269005147,2023-03-07,Blanket,99.11
+Alex Davis,+19619920226,2023-03-07,Cheese,29.41
+Ryan Clark,+14391263579,2023-03-08,Candle,71.78
+Sarah Brown,+19929816665,2023-03-10,Smartwatch,375.94
+Julia Johnson,+16299939370,2023-03-10,Fiction Novel,37.72
+Cara Robinson,+16971559740,2023-03-10,Cheese,69.55
+Mike Brown,+11125687650,2023-03-10,Yoga Mat,34.24
+Julia Thomas,+19269005147,2023-03-11,Chocolate,81.11
+Olivia Wilson,+11658126734,2023-03-12,Lipstick,72.6
+Sam White,+10431545039,2023-03-13,Dumbells,173.13
+John Martinez,+11515019937,2023-03-13,Shoes,76.67
+Ryan Thomas,+17163364995,2023-03-13,Children's Book,38.2
+Jake Taylor,+19628745058,2023-03-13,Cookbook,35.65
+Mark Robinson,+11791059722,2023-03-13,Lipstick,78.98
+Sophie Rodriguez,+15015765990,2023-03-14,Dress,76.07
+Nina Smith,+18890031829,2023-03-14,Cheese,47.67
+Julia Thomas,+19269005147,2023-03-16,Dress,66.27
+Cara Harris,+16473695168,2023-03-17,Plant,225.61
+Jake Robinson,+19272793565,2023-03-17,Snacks,30.37
+Sarah Davis,+12535532612,2023-03-18,Perfume,54.75
+Lucy White,+12450388602,2023-03-18,Blanket,220.05
+Olivia White,+10514408566,2023-03-18,Jeans,69.69
+Nina Wilson,+15766540890,2023-03-18,Face Cream,41.51
+Sarah Brown,+19929816665,2023-03-18,Bluetooth Speaker,561.87
+John Johnson,+10042051360,2023-03-20,Vacuum Cleaner,47.84
+Cara Harris,+16473695168,2023-03-21,Perfume,45.05
+Jake Miller,+12624027603,2023-03-22,Sweater,140.53
+Cara Harris,+16473695168,2023-03-22,Tablet,500.7
+Sophie Wilson,+15012762282,2023-03-23,Self-Help Book,52.57
+Zoe Smith,+12623069039,2023-03-24,Lipstick,108.17
+Emma Harris,+19865138694,2023-03-24,Cookbook,32.79
+Julia Thomas,+19269005147,2023-03-24,Shoes,109.29
+Chris Taylor,+11977997884,2023-03-24,Candle,77.41
+David Moore,+15056554029,2023-03-25,Running Shoes,246.92
+Sarah Brown,+19929816665,2023-03-25,Bluetooth Speaker,143.67
+Sophie Rodriguez,+15015765990,2023-03-26,Perfume,47.57
+Kevin Rodriguez,+18572734852,2023-03-26,Sweater,137.16
+Julia Martin,+11520507391,2023-03-27,Blanket,69.61
+Sam White,+10431545039,2023-03-27,Smartphone,669.67
+Cara White,+17731238450,2023-03-28,T-Shirt,160.98
+Sophie Johnson,+16909635463,2023-03-28,Bluetooth Speaker,585.93
+Sarah Smith,+19016349380,2023-03-28,Tennis Racket,198.17
+Chris Brown,+12902571215,2023-03-28,Fiction Novel,10.36
+Nina Smith,+18890031829,2023-03-30,Pillow,24.95
+Nina Clark,+14765782723,2023-03-30,Shampoo,26.05
+Anna Jackson,+11147407646,2023-03-31,Candle,21.53
+Helen Jackson,+19988127943,2023-03-31,Gaming Console,181.41
+Amy Clark,+16173983526,2023-04-02,Sweater,57.98
+Anna Martin,+12857916233,2023-04-03,Nail Polish,87.61
+Nina Smith,+18697059447,2023-04-03,Lipstick,19.91
+Sarah Wilson,+10266520655,2023-04-04,Children's Book,14.81
+Julia Thomas,+19269005147,2023-04-04,Hat,119.73
+Alex Lewis,+15295332903,2023-04-06,Face Cream,15.58
+Chris Miller,+12140160927,2023-04-08,Candle,144.66
+Cara White,+17731238450,2023-04-09,Sweater,23.01
+Julia Garcia,+18583666276,2023-04-09,Laptop,737.34
+Amy Miller,+14182409465,2023-04-10,Smartwatch,428.86
+Jake Miller,+12624027603,2023-04-10,Headphones,397.38
+Olivia Davis,+19794266238,2023-04-10,Laptop,917.03
+Kate Smith,+18420188869,2023-04-10,Sweater,90.06
+Tom Martinez,+15625581066,2023-04-11,Headphones,89.1
+Kate Smith,+18420188869,2023-04-11,Jeans,123.3
+Jake Martin,+13268935245,2023-04-11,Smartwatch,797.4
+Peter Thomas,+19417397237,2023-04-12,T-Shirt,111.97
+Maria Martinez,+16724800204,2023-04-12,Running Shoes,140.31
+Tom Miller,+18305339219,2023-04-12,Foundation,75.47
+John Lewis,+15170866755,2023-04-15,Perfume,28.19
+Nina Smith,+18890031829,2023-04-16,Shampoo,53.05
+Sam Lewis,+15610120991,2023-04-17,Gaming Console,413.94
+Nina Wilson,+15766540890,2023-04-17,Candle,126.32
+Lisa Jackson,+19366395273,2023-04-18,Perfume,60.43
+Peter Thomas,+15253230076,2023-04-19,Lipstick,51.27
+Jake Miller,+12624027603,2023-04-19,Vacuum Cleaner,128.44
+Maria Martinez,+14265012126,2023-04-19,Bluetooth Speaker,198.01
+Anna Martinez,+13226647001,2023-04-19,Running Shoes,218.24
+Maria Martinez,+14265012126,2023-04-20,Children's Book,17.08
+Mike Robinson,+14940997928,2023-04-20,Foundation,75.43
+Lisa Moore,+17999316520,2023-04-22,Biography,19.95
+Sarah Miller,+16862934692,2023-04-23,Lipstick,24.98
+Kate Lewis,+10472012923,2023-04-23,Cookbook,44.37
+Sarah Thomas,+18685168163,2023-04-24,Biography,29.75
+Sarah Brown,+19929816665,2023-04-25,Yoga Mat,35.04
+Peter Thomas,+15253230076,2023-04-25,Wine,62.55
+Amy Brown,+15090664707,2023-04-25,Jacket,30.13
+Peter Wilson,+12666181720,2023-04-26,Lipstick,13.44
+David Moore,+12741432432,2023-04-26,Jeans,147.26
+Alex Davis,+11642211937,2023-04-26,T-Shirt,55.82
+Cara Harris,+16473695168,2023-04-27,Jeans,161.48
+Cara Miller,+11734308879,2023-04-27,Gaming Console,313.37
+Lisa Harris,+14468705604,2023-04-27,Foundation,47.35
+Sophie Martinez,+16223008200,2023-04-27,Technical Manual,22.56
+John Johnson,+10042051360,2023-04-28,T-Shirt,40.23
+Julia Martinez,+14719760524,2023-04-29,Olive Oil,29.28
+David Moore,+15056554029,2023-05-02,Tablet,159.39
+Olivia White,+10514408566,2023-05-03,Coffee Maker,25.95
+Lucy Thomas,+11449339330,2023-05-03,Lamp,21.83
+John Lewis,+15170866755,2023-05-05,Chocolate,33.55
+Lucy White,+12357511519,2023-05-05,Pillow,182.99
+Julia Martin,+11520507391,2023-05-05,Plant,208.59
+Amy Wilson,+12474469827,2023-05-06,Smartphone,392.79
+Sarah Rodriguez,+13224922397,2023-05-08,Olive Oil,67.72
+John Davis,+15994981983,2023-05-09,Cheese,67.09
+Mike Johnson,+12947007311,2023-05-10,Lipstick,54.04
+Mark Johnson,+11760814299,2023-05-10,Cheese,38.3
+Alex Davis,+19619920226,2023-05-10,Wine,65.73
+Lisa Harris,+14468705604,2023-05-12,Chocolate,28.63
+Ryan Thomas,+17163364995,2023-05-13,Water Bottle,163.44
+Lucy Thomas,+11449339330,2023-05-13,Children's Book,13.13
+Helen Rodriguez,+17561871473,2023-05-13,Cheese,57.5
+Amy Brown,+15106477678,2023-05-14,Snacks,40.55
+Sarah Anderson,+18365281573,2023-05-14,Dumbells,135.84
+Mark Rodriguez,+12918029292,2023-05-15,Dumbells,153.03
+Sarah Anderson,+18365281573,2023-05-15,Snacks,22.07
+Lucy Clark,+13691362032,2023-05-15,Gaming Console,608.69
+Maria Clark,+16887560313,2023-05-16,Smartphone,920.78
+John Lewis,+15170866755,2023-05-16,Foundation,98.63
+Maria Clark,+16887560313,2023-05-21,Lamp,101.73
+Maria Harris,+17907780083,2023-05-21,Children's Book,33.64
+Luke Garcia,+12141447185,2023-05-22,Sweater,63.89
+Kate Smith,+18420188869,2023-05-22,Tea,39.38
+Sarah Wilson,+10266520655,2023-05-22,Biography,34.12
+Mark Jackson,+16823018551,2023-05-23,Scarf,20.62
+Zoe Smith,+12623069039,2023-05-23,Smartwatch,323.4
+Lisa Brown,+11998031170,2023-05-24,Candle,168.71
+Tom Martinez,+15625581066,2023-05-25,Vacuum Cleaner,133.19
+Sarah White,+13198029925,2023-05-25,Plant,25.96
+Sarah Rodriguez,+13224922397,2023-05-27,Tennis Racket,98.64
+Tom Miller,+18305339219,2023-05-28,Fiction Novel,43.76
+Jake Miller,+12624027603,2023-06-02,Cookbook,20.92
+Kate Smith,+18420188869,2023-06-02,Coffee Maker,62.4
+Lisa Brown,+11998031170,2023-06-02,Plant,196.39
+James Smith,+16890811761,2023-06-03,Wine,47.84
+Mark Johnson,+11760814299,2023-06-04,Chocolate,70.94
+Alex Clark,+19650452392,2023-06-04,Organic Coffee,31.45
+Peter Wilson,+12666181720,2023-06-06,Children's Book,39.77
+Anna Martinez,+13226647001,2023-06-06,Tennis Racket,294.25
+Sarah Jackson,+17926432624,2023-06-07,Tennis Racket,124.56
+Nina Harris,+14974958021,2023-06-07,Dress,131.39
+Alex Lewis,+12877893629,2023-06-07,Pillow,236.87
+Sarah Wilson,+10266520655,2023-06-08,Tennis Racket,279.52
+Sarah White,+13198029925,2023-06-08,Water Bottle,172.95
+Sarah Wilson,+17787237095,2023-06-10,Foundation,52.65
+Kevin Martin,+13827809373,2023-06-10,Smartphone,277.64
+Julia Garcia,+18583666276,2023-06-10,Organic Coffee,30.32
+Julia Martinez,+14719760524,2023-06-11,Cookbook,24.76
+John Johnson,+10042051360,2023-06-12,Cheese,100.82
+Maria Clark,+16887560313,2023-06-13,Running Shoes,425.66
+Lucy Johnson,+11829710017,2023-06-13,Hat,102.66
+Zoe Smith,+12623069039,2023-06-13,Hat,37.93
+Olivia Davis,+19794266238,2023-06-13,Technical Manual,21.41
+Sarah Rodriguez,+13224922397,2023-06-14,Laptop,618.25
+Sarah Miller,+16862934692,2023-06-14,Smartwatch,517.06
+Anna Wilson,+12359562797,2023-06-14,Cheese,23.21
+Jake Taylor,+19628745058,2023-06-15,Nail Polish,74.33
+Sophie Martinez,+16223008200,2023-06-15,Nail Polish,18.87
+Anna Johnson,+14437500914,2023-06-15,Headphones,755.41
+Jake Martin,+13268935245,2023-06-16,Cookbook,42.5
+Lisa Lewis,+10651731114,2023-06-16,Children's Book,38.75
+Anna Martinez,+13226647001,2023-06-17,Basketball,177.61
+Jake Anderson,+18962762699,2023-06-18,Cookbook,76.99
+Alex Lewis,+15295332903,2023-06-20,Smartwatch,135.22
+Kate Smith,+11216724320,2023-06-20,Shoes,68.43
+Luke Wilson,+15515747726,2023-06-20,Technical Manual,10.7
+Sarah White,+13198029925,2023-06-21,Snacks,51.09
+Dan Lewis,+19351137482,2023-06-22,Sweater,40.05
+Nina Rodriguez,+10139013039,2023-06-22,Vacuum Cleaner,166.9
+Olivia Davis,+16232860574,2023-06-23,Laptop,593.65
+Sarah Anderson,+18365281573,2023-06-23,Face Cream,71.54
+Sophie Smith,+12087623244,2023-06-23,Perfume,109.55
+Sarah Jackson,+17926432624,2023-06-24,Dress,131.34
+Amy Miller,+14182409465,2023-06-24,Smartphone,592.13
+Helen Jackson,+19988127943,2023-06-25,Olive Oil,59.91
+Amy Miller,+14182409465,2023-06-25,Smartwatch,477.07
+Olivia Robinson,+11783649634,2023-06-26,Tennis Racket,240.35
+James Smith,+16890811761,2023-06-26,Foundation,43.3
+Sarah Brown,+19929816665,2023-06-26,Shampoo,72.93
+Kate Smith,+18420188869,2023-06-27,Tennis Racket,53.83
+Peter Wilson,+12666181720,2023-06-27,Jeans,105.75
+Mark Robinson,+13810651198,2023-06-28,Self-Help Book,39.26
+Luke Wilson,+15515747726,2023-06-28,Tea,37.64
+James Smith,+16890811761,2023-06-28,Tea,81.81
+Amy Miller,+14182409465,2023-06-29,Children's Book,51.45
+Cara Wilson,+15595238060,2023-06-29,Pillow,215.01
+Dan Lewis,+19351137482,2023-06-29,Sweater,98.17
+Nina Harris,+14974958021,2023-06-30,Cookbook,23.68
+James Garcia,+12994513083,2023-06-30,Technical Manual,24.71
+Alex Wilson,+16022134793,2023-07-01,Shampoo,26.74
+Kevin Harris,+10219107712,2023-07-01,Headphones,499.23
+Julia Thomas,+19269005147,2023-07-01,Cheese,67.5
+Alex Wilson,+16022134793,2023-07-02,Hat,137.89
+Emma Miller,+12032642587,2023-07-02,Running Shoes,434.54
+Olivia Wilson,+11658126734,2023-07-03,Basketball,374.65
+John Davis,+15994981983,2023-07-04,Children's Book,57.87
+David Moore,+12741432432,2023-07-04,Technical Manual,31.44
+Sarah White,+13198029925,2023-07-04,Scarf,20.53
+Mike Robinson,+14940997928,2023-07-04,Organic Coffee,48.08
+Chris Taylor,+11977997884,2023-07-06,Perfume,137.65
+Chris Miller,+12140160927,2023-07-06,Chocolate,91.68
+Mike Wilson,+19920269370,2023-07-06,Jeans,90.54
+Emma Miller,+12032642587,2023-07-06,Plant,72.14
+Tom White,+11117296120,2023-07-07,Jacket,127.79
+Amy Brown,+15090664707,2023-07-07,Technical Manual,36.23
+Amy Wilson,+11124114760,2023-07-08,Coffee Maker,38.39
+Lisa Lewis,+10651731114,2023-07-08,Cookbook,43.64
+Sam Moore,+13632031862,2023-07-10,Shoes,27.82
+Alex Rodriguez,+17291910589,2023-07-11,Wine,16.16
+Mark Rodriguez,+12918029292,2023-07-12,Bluetooth Speaker,584.04
+John Thomas,+10009467738,2023-07-12,Pillow,112.55
+David Wilson,+19560472746,2023-07-12,Biography,14.78
+Olivia Robinson,+11783649634,2023-07-13,Biography,19.86
+Maria Martinez,+14265012126,2023-07-13,Scarf,59.73
+David Wilson,+19560472746,2023-07-13,Nail Polish,121.11
+Jake Robinson,+19272793565,2023-07-14,Face Cream,143.53
+Nina Wilson,+15766540890,2023-07-15,Cookbook,35.28
+Chris Brown,+12902571215,2023-07-15,Shampoo,86.48
+John Thomas,+10009467738,2023-07-16,T-Shirt,46.73
+Sophie Rodriguez,+15015765990,2023-07-17,Yoga Mat,217.77
+Amy Miller,+14182409465,2023-07-17,Vacuum Cleaner,104.51
+Sarah Anderson,+18365281573,2023-07-17,Smartwatch,805.26
+Lucy White,+12450388602,2023-07-17,Blanket,188.33
+Luke Garcia,+12141447185,2023-07-19,Fiction Novel,45.95
+Alex Johnson,+18902087749,2023-07-19,Plant,141.33
+Amy Brown,+15090664707,2023-07-20,Tablet,475.08
+Dan Lewis,+19351137482,2023-07-20,Lamp,150.75
+Luke Wilson,+15515747726,2023-07-21,Olive Oil,53.79
+Olivia Davis,+16232860574,2023-07-24,T-Shirt,116.52
+Ryan Clark,+14391263579,2023-07-24,Children's Book,61.05
+Mark Rodriguez,+12918029292,2023-07-24,Tablet,623.74
+Nina Taylor,+15797339650,2023-07-25,Self-Help Book,40.74
+Maria Clark,+16887560313,2023-07-27,Laptop,454.15
+Sarah Brown,+19029947914,2023-07-27,Bluetooth Speaker,730.17
+John Lewis,+15170866755,2023-07-28,Organic Coffee,83.99
+Julia Garcia,+18583666276,2023-07-28,Tea,16.99
+Sarah Miller,+16862934692,2023-07-28,Gaming Console,852.86
+Julia Thomas,+19269005147,2023-07-29,Plant,105.36
+David Wilson,+19560472746,2023-07-29,Scarf,109.28
+Peter Thomas,+15253230076,2023-07-30,Smartphone,959.34
+Mike Miller,+16552886207,2023-08-01,Nail Polish,73.73
+Sarah Anderson,+18365281573,2023-08-02,Scarf,99.8
+Kate Smith,+18420188869,2023-08-03,Fiction Novel,44.75
+Cara Miller,+11734308879,2023-08-06,Wine,29.44
+Alex Johnson,+18902087749,2023-08-08,Smartwatch,272.87
+Lucy White,+12357511519,2023-08-10,Bluetooth Speaker,1041.64
+Amy Miller,+14182409465,2023-08-10,Cookbook,38.86
+Maria Clark,+16887560313,2023-08-11,Face Cream,108.91
+Alex Lewis,+12877893629,2023-08-14,Blanket,145.16
+Ryan Clark,+14391263579,2023-08-14,Gaming Console,409.64
+David Moore,+15056554029,2023-08-15,Coffee Maker,104.29
+James Garcia,+12994513083,2023-08-15,Blanket,69.1
+Kevin Martin,+13827809373,2023-08-16,Nail Polish,34.5
+Anna Martin,+12857916233,2023-08-17,Dumbells,219.53
+Mike Robinson,+14940997928,2023-08-17,Dress,196.81
+Olivia Robinson,+11783649634,2023-08-17,Dress,189.03
+Amy Wilson,+11124114760,2023-08-19,Pillow,111.47
+Julia Martinez,+14719760524,2023-08-19,Laptop,779.57
+Luke Martinez,+16073706041,2023-08-20,Perfume,54.66
+Lucy Jackson,+11946049311,2023-08-20,Yoga Mat,69.63
+Amy Davis,+18068056500,2023-08-20,Jacket,176.99
+Julia Garcia,+18583666276,2023-08-22,Plant,210.23
+Sarah Thomas,+18685168163,2023-08-22,Running Shoes,107.5
+Chris Davis,+14728027638,2023-08-24,T-Shirt,175.2
+Lisa Lewis,+10651731114,2023-08-24,Vacuum Cleaner,193.14
+Nina Smith,+18890031829,2023-08-24,Vacuum Cleaner,157.79
+Jake Anderson,+18962762699,2023-08-24,Cookbook,29.13
+John Martinez,+14676515785,2023-08-25,T-Shirt,161.01
+Anna Martinez,+19157514137,2023-08-25,Tablet,267.03
+Olivia Davis,+16232860574,2023-08-26,Foundation,94.92
+Jake Miller,+12624027603,2023-08-29,Blanket,231.01
+David Moore,+12741432432,2023-08-30,Snacks,59.02
+Peter Thomas,+15253230076,2023-08-30,Foundation,28.48
+Olivia Robinson,+11783649634,2023-08-30,Lamp,136.85
+Sarah Thomas,+18685168163,2023-08-31,Nail Polish,34.76
+Alex Rodriguez,+17291910589,2023-09-01,Shoes,86.02
+Chris Miller,+12140160927,2023-09-01,Candle,91.66
+Sam White,+10431545039,2023-09-01,Foundation,52.77
+Sarah Davis,+12535532612,2023-09-02,Bluetooth Speaker,887.14
+Nina Taylor,+15797339650,2023-09-02,Smartwatch,392.32
+Amy Wilson,+11124114760,2023-09-04,Jeans,128.8
+Kate Lewis,+12132093466,2023-09-04,Face Cream,64.3
+Sophie Wilson,+15012762282,2023-09-06,Headphones,100.87
+Jake Anderson,+18962762699,2023-09-07,Basketball,91.74
+Cara Harris,+16473695168,2023-09-08,Jeans,76.2
+Cara Wilson,+15595238060,2023-09-09,Fiction Novel,65.68
+Kate Lewis,+12132093466,2023-09-11,Plant,192.88
+Sarah Wilson,+10266520655,2023-09-14,Running Shoes,288.22
+Jake Taylor,+19628745058,2023-09-17,Lipstick,20.02
+Kevin Rodriguez,+18572734852,2023-09-17,Headphones,177.29
+Cara Miller,+11734308879,2023-09-17,Chocolate,27.88
+Mark Jackson,+16823018551,2023-09-17,Biography,10.94
+Kate Lewis,+10472012923,2023-09-18,Water Bottle,157.08
+Amy Wilson,+11124114760,2023-09-19,Olive Oil,49.89
+Jake Miller,+12624027603,2023-09-20,Cheese,70.98
+Mike Miller,+16552886207,2023-09-21,Children's Book,39.57
+Jake Martinez,+12200351978,2023-09-21,Technical Manual,54.4
+Sarah Brown,+19029947914,2023-09-21,Coffee Maker,37.03
+Helen Brown,+12687713765,2023-09-22,Cheese,43.49
+Amy Brown,+15106477678,2023-09-23,Yoga Mat,136.62
+Chris Brown,+12902571215,2023-09-24,Self-Help Book,38.77
+Sophie Johnson,+16909635463,2023-09-24,Snacks,102.71
+Alex Wilson,+16022134793,2023-09-25,Cheese,35.47
+Anna Martin,+12857916233,2023-09-27,Wine,52.69
+Mike Martinez,+13036371310,2023-09-27,Nail Polish,69.47
+Sophie Smith,+12087623244,2023-09-27,Self-Help Book,30.56
+Tom White,+11117296120,2023-09-28,Smartwatch,315.65
+Anna Johnson,+14437500914,2023-09-28,Foundation,17.83
+Lucy White,+12357511519,2023-09-29,Laptop,333.11
+Sarah White,+13198029925,2023-09-29,Headphones,363.12
+Lisa Lewis,+10651731114,2023-09-30,Tennis Racket,346.44
+Jake Martin,+13268935245,2023-10-01,Smartphone,479.88
+Lisa Moore,+17999316520,2023-10-01,Self-Help Book,49.8
+David Moore,+15056554029,2023-10-02,Water Bottle,266.69
+Nina Smith,+18697059447,2023-10-03,Technical Manual,53.57
+Nina Smith,+18890031829,2023-10-04,Tea,75.54
+Jake Taylor,+19628745058,2023-10-04,Shoes,139.82
+Mark Robinson,+13810651198,2023-10-04,Snacks,42.08
+Anna Martinez,+13226647001,2023-10-04,Children's Book,19.48
+Tom Martinez,+15625581066,2023-10-05,Lipstick,33.38
+Olivia Robinson,+11783649634,2023-10-05,Shampoo,62.41
+Alex Wilson,+16022134793,2023-10-09,Yoga Mat,100.01
+Sarah Brown,+19929816665,2023-10-10,Tablet,382.35
+Sarah Davis,+12535532612,2023-10-12,Yoga Mat,176.99
+Alex Lewis,+15295332903,2023-10-12,Water Bottle,144.96
+Chris Smith,+13245755299,2023-10-16,Lipstick,114.97
+Nina Clark,+14765782723,2023-10-17,Coffee Maker,128.4
+Jake Miller,+12624027603,2023-10-18,Shoes,54.13
+Olivia Davis,+19794266238,2023-10-18,Lamp,62.53
+Sam Moore,+13632031862,2023-10-18,Blanket,129.61
+Jake Anderson,+18962762699,2023-10-19,Shoes,128.88
+Mike Martin,+13312182912,2023-10-19,Yoga Mat,182.09
+Tom Davis,+14469465496,2023-10-21,Snacks,71.82
+Amy Clark,+16173983526,2023-10-21,Tea,58.13
+David Moore,+12741432432,2023-10-21,Pillow,159.79
+Kate Lewis,+12132093466,2023-10-21,Perfume,22.81
+Maria Harris,+17907780083,2023-10-23,Jacket,42.22
+Helen Brown,+12687713765,2023-10-23,Pillow,61.22
+Amy Clark,+16173983526,2023-10-24,Basketball,64.39
+Sarah Smith,+19016349380,2023-10-24,Vacuum Cleaner,101.93
+Lucy Jackson,+11946049311,2023-10-25,Face Cream,52.71
+Tom Miller,+18305339219,2023-10-26,Sweater,114.79
+Sarah Thomas,+18685168163,2023-10-27,Jeans,153.78
+Sarah Brown,+19029947914,2023-10-30,Self-Help Book,29.44
+Nina Harris,+14974958021,2023-10-30,Tea,77.33
+Chris Smith,+13245755299,2023-10-31,Face Cream,93.76
+Olivia Davis,+16232860574,2023-10-31,Laptop,340.72
+Mike Miller,+16552886207,2023-11-01,Laptop,960.78
+Sarah White,+13198029925,2023-11-03,Self-Help Book,28.86
+Olivia Jackson,+19433559612,2023-11-05,Dress,53.31
+Anna Martinez,+13226647001,2023-11-05,Tennis Racket,53.43
+Lucy Clark,+13691362032,2023-11-05,Cookbook,54.65
+Mike Wilson,+19920269370,2023-11-06,T-Shirt,109.98
+Maria Martinez,+16724800204,2023-11-06,Tablet,899.93
+Lucy Johnson,+11829710017,2023-11-07,Cheese,29.89
+Helen Brown,+12687713765,2023-11-08,Plant,60.55
+Alex Rodriguez,+17291910589,2023-11-08,Headphones,449.39
+Sarah Wilson,+10266520655,2023-11-08,Fiction Novel,52.19
+Luke Lewis,+17632676346,2023-11-09,Basketball,379.3
+Tom Martinez,+15625581066,2023-11-11,Tennis Racket,371.03
+Tom White,+11117296120,2023-11-12,Vacuum Cleaner,72.05
+Lucy Johnson,+11829710017,2023-11-12,Chocolate,31.21
+James Garcia,+12994513083,2023-11-15,Tennis Racket,449.04
+Sarah Wilson,+17787237095,2023-11-15,Lipstick,117.2
+Maria Martinez,+16724800204,2023-11-16,Basketball,155.88
+Sam White,+10431545039,2023-11-18,Perfume,29.56
+Alex Johnson,+18902087749,2023-11-18,Jacket,36.31
+Lisa Brown,+11998031170,2023-11-18,Jacket,214.33
+Alex Thomas,+19307445188,2023-11-19,Perfume,119.07
+David Wilson,+19560472746,2023-11-19,Nail Polish,139.02
+Mike Brown,+11125687650,2023-11-21,Wine,78.0
+Tom Miller,+18305339219,2023-11-21,Tennis Racket,201.38
+Luke Wilson,+15515747726,2023-11-21,Headphones,564.42
+Alex Lewis,+12877893629,2023-11-22,Fiction Novel,18.36
+Sam Moore,+13632031862,2023-11-22,Lamp,225.52
+David Moore,+12741432432,2023-11-23,Dress,251.23
+Alex Clark,+19650452392,2023-11-24,Face Cream,116.13
+Alex Johnson,+18143430400,2023-11-24,Water Bottle,240.25
+Olivia Davis,+16232860574,2023-11-25,Wine,118.16
+Alex Rodriguez,+17291910589,2023-11-25,Shampoo,27.14
+Alex Wilson,+16022134793,2023-11-26,Scarf,155.22
+Emma Miller,+12032642587,2023-11-27,Candle,133.66
+Julia Martinez,+14719760524,2023-11-27,Fiction Novel,59.38
+Mike Miller,+16552886207,2023-11-28,Blanket,129.75
+Chris Brown,+12902571215,2023-11-28,T-Shirt,120.79
+Anna Martinez,+19157514137,2023-11-28,Shampoo,104.58
+Amy Brown,+15090664707,2023-11-28,Tennis Racket,410.62
+John Martinez,+11515019937,2023-11-28,Organic Coffee,28.72
+Amy Brown,+15090664707,2023-11-29,Lipstick,151.79
+Dan Lewis,+19351137482,2023-11-29,Olive Oil,117.0
+Lisa Lewis,+10651731114,2023-11-30,Pillow,122.24
+Sarah Anderson,+18365281573,2023-12-03,Jeans,254.71
+Chris Miller,+12140160927,2023-12-03,Olive Oil,98.32
+Chris Brown,+12902571215,2023-12-04,Face Cream,95.18
+Cara Harris,+16473695168,2023-12-06,Basketball,332.83
+Kevin Rodriguez,+18572734852,2023-12-06,Jacket,90.54
+Peter Wilson,+12666181720,2023-12-07,Hat,168.28
+Anna Martinez,+19157514137,2023-12-08,Running Shoes,390.16
+Amy Wilson,+11124114760,2023-12-09,Lipstick,34.54
+Jake Taylor,+19628745058,2023-12-09,Self-Help Book,31.44
+Amy Wilson,+11124114760,2023-12-09,Biography,86.2
+Zoe Smith,+12623069039,2023-12-10,Water Bottle,221.43
+Olivia Robinson,+11783649634,2023-12-13,Children's Book,86.99
+Jake Anderson,+18962762699,2023-12-13,Lamp,217.25
+Sophie Martinez,+16223008200,2023-12-13,Pillow,108.55
+Dan Lewis,+19351137482,2023-12-16,Lamp,192.73
+Cara Robinson,+16971559740,2023-12-16,Gaming Console,359.06
+Anna Martin,+12857916233,2023-12-16,Cheese,132.11
+Olivia Wilson,+11658126734,2023-12-17,Jacket,115.1
+Tom Jackson,+12023516681,2023-12-18,Children's Book,42.41
+Kate Lewis,+12132093466,2023-12-19,Water Bottle,292.06
+Alex Thomas,+19307445188,2023-12-20,Hat,173.4
+Nina Rodriguez,+10139013039,2023-12-21,Dress,236.55
+Lucy White,+12450388602,2023-12-21,Lamp,59.34
+Amy Clark,+16173983526,2023-12-22,Water Bottle,136.15
+Mike Martinez,+13036371310,2023-12-22,Organic Coffee,118.77
+Nina Taylor,+15797339650,2023-12-22,Blanket,139.74
+Sarah Brown,+19929816665,2023-12-24,Candle,167.5
+Sarah Jackson,+17926432624,2023-12-24,Pillow,353.5
+Chris Smith,+13245755299,2023-12-24,Wine,100.71
+Sarah Smith,+19016349380,2023-12-28,Sweater,176.87
+Lisa Brown,+11998031170,2023-12-28,Tablet,1224.69
+Cara Miller,+11734308879,2023-12-29,Wine,92.06
+Emma Miller,+12032642587,2023-12-29,Cheese,35.48
+Alex Davis,+19619920226,2023-12-30,Nail Polish,117.71
+Sarah White,+13198029925,2023-12-30,Cookbook,64.43
+Julia Martinez,+14719760524,2023-12-30,Foundation,159.83
+Mark Jackson,+16823018551,2024-01-01,Jeans,112.16
+John Lewis,+15170866755,2024-01-02,Hat,169.41
+Anna Johnson,+14437500914,2024-01-02,Yoga Mat,106.86
+James Garcia,+12994513083,2024-01-02,Children's Book,39.99
+Kevin Rodriguez,+18572734852,2024-01-04,Tennis Racket,85.12
+Chris Smith,+13245755299,2024-01-05,Face Cream,29.55
+Alex Johnson,+18902087749,2024-01-05,Coffee Maker,48.64
+Julia Garcia,+18583666276,2024-01-06,Wine,32.44
+Nina Smith,+18890031829,2024-01-07,Basketball,105.43
+Peter Wilson,+12666181720,2024-01-08,Running Shoes,186.93
+Jake Miller,+12624027603,2024-01-10,Snacks,45.26
+Chris Miller,+12140160927,2024-01-11,Lipstick,16.83
+Mike Robinson,+14940997928,2024-01-11,Laptop,581.15
+Lucy White,+12450388602,2024-01-11,Dress,85.65
+Olivia Davis,+16232860574,2024-01-12,Blanket,96.47
+Alex Davis,+11642211937,2024-01-13,Basketball,68.56
+Chris Miller,+12140160927,2024-01-13,Snacks,91.53
+David Moore,+15056554029,2024-01-14,Dumbells,43.67
+Amy Wilson,+11124114760,2024-01-14,Laptop,294.76
+Nina Rodriguez,+10139013039,2024-01-15,Water Bottle,143.22
+David Moore,+12741432432,2024-01-15,Self-Help Book,33.54
+Mike Martin,+13312182912,2024-01-16,Yoga Mat,176.36
+Sam Jackson,+18475533563,2024-01-16,Vacuum Cleaner,49.26
+Olivia Davis,+16232860574,2024-01-18,Nail Polish,41.76
+John Jackson,+15340352714,2024-01-19,Perfume,84.01
+Tom Jackson,+12023516681,2024-01-19,Basketball,98.06
+Sarah Davis,+12535532612,2024-01-20,Biography,42.96
+John Lewis,+15170866755,2024-01-21,Bluetooth Speaker,468.15
+Mike Wilson,+19920269370,2024-01-21,Smartwatch,998.53
+Jake Martinez,+12200351978,2024-01-21,Jeans,152.31
+Mike Johnson,+12947007311,2024-01-22,Sweater,92.31
+Amy Wilson,+12474469827,2024-01-23,Olive Oil,53.76
+Mark Robinson,+11791059722,2024-01-23,Face Cream,108.67
+Lisa Jackson,+19366395273,2024-01-24,Olive Oil,14.88
+Anna Wilson,+12359562797,2024-01-24,Smartwatch,649.34
+Peter Wilson,+12666181720,2024-01-24,Vacuum Cleaner,146.8
+Sarah Miller,+16862934692,2024-01-25,Yoga Mat,269.28
+Nina Taylor,+15797339650,2024-01-25,Sweater,102.97
+Mike Johnson,+12947007311,2024-01-25,Shampoo,18.33
+Maria Martinez,+14265012126,2024-01-25,Gaming Console,439.81
+James Garcia,+12994513083,2024-01-26,Biography,36.97
+Kate Smith,+18420188869,2024-01-27,Lamp,86.51
+Peter Thomas,+19417397237,2024-01-27,Foundation,79.09
+John Johnson,+10042051360,2024-01-30,Sweater,91.14
+Jake Taylor,+19628745058,2024-02-02,Water Bottle,292.72
+John Johnson,+10042051360,2024-02-03,Running Shoes,238.79
+Cara Miller,+11734308879,2024-02-03,Hat,111.4
+Jake Martin,+13268935245,2024-02-05,Dress,141.43
+Kevin Rodriguez,+18572734852,2024-02-07,Pillow,150.92
+Chris Brown,+12902571215,2024-02-07,Jacket,44.26
+Sophie Smith,+12087623244,2024-02-07,Foundation,84.69
+Olivia Davis,+19794266238,2024-02-07,Yoga Mat,221.67
+Julia Thomas,+19269005147,2024-02-08,Laptop,503.61
+Lisa Jackson,+19366395273,2024-02-09,Fiction Novel,46.11
+Kate Lewis,+10472012923,2024-02-09,Shampoo,23.98
+Amy Wilson,+12474469827,2024-02-11,Jeans,139.14
+John Martinez,+14676515785,2024-02-11,Biography,39.17
+Emma Miller,+12032642587,2024-02-11,Children's Book,34.07
+John Johnson,+10042051360,2024-02-12,Biography,18.82
+Cara Robinson,+16971559740,2024-02-12,Sweater,40.3
+Chris Miller,+12140160927,2024-02-12,Gaming Console,248.65
+Sarah Thomas,+18685168163,2024-02-13,Jeans,53.03
+Alex Thomas,+19307445188,2024-02-14,Shoes,14.66
+Jake Martinez,+12200351978,2024-02-14,Tea,13.1
+Helen Rodriguez,+17561871473,2024-02-17,Pillow,57.52
+Sam Moore,+13632031862,2024-02-17,Nail Polish,73.48
+Kate Lewis,+10472012923,2024-02-18,Yoga Mat,29.61
+Olivia Davis,+19794266238,2024-02-19,Snacks,14.75
+Kevin Rodriguez,+18572734852,2024-02-20,Smartwatch,391.52
+Sarah Miller,+16862934692,2024-02-20,Chocolate,77.28
+John Lewis,+15170866755,2024-02-22,Face Cream,26.0
+Sarah Anderson,+18365281573,2024-02-22,Children's Book,17.71
+Tom Jackson,+12023516681,2024-02-22,Smartphone,235.32
+John Thomas,+10009467738,2024-02-23,Dress,20.31
+Alex Johnson,+18902087749,2024-02-23,Perfume,60.07
+Julia Martin,+11520507391,2024-02-24,Nail Polish,82.05
+Sarah Rodriguez,+13224922397,2024-02-24,Wine,64.34
+Jake Robinson,+19272793565,2024-02-24,Wine,74.33
+Nina Taylor,+15797339650,2024-02-25,Lipstick,55.8
+Olivia Davis,+16232860574,2024-02-25,Candle,133.76
+Alex Lewis,+15295332903,2024-02-26,Snacks,30.75
+Chris Miller,+12140160927,2024-02-28,Pillow,34.78
+Chris Taylor,+11977997884,2024-02-28,Shoes,177.2
+Sarah Davis,+12535532612,2024-02-29,Blanket,192.88
+Tom Martinez,+15625581066,2024-02-29,Face Cream,100.35
+Alex Thomas,+19307445188,2024-02-29,Smartwatch,631.28
+Maria Martinez,+14265012126,2024-03-01,Tea,26.42
+Peter Wilson,+12666181720,2024-03-01,Foundation,54.92
+Mark Rodriguez,+12918029292,2024-03-03,Sweater,139.01
+Mark Rodriguez,+12918029292,2024-03-03,Organic Coffee,31.6
+Nina Rodriguez,+10139013039,2024-03-04,Jeans,176.74
+Sam Lewis,+15610120991,2024-03-04,Wine,38.05
+Ryan Clark,+14391263579,2024-03-05,Self-Help Book,35.88
+Jake Taylor,+19628745058,2024-03-05,Children's Book,55.16
+David Wilson,+19560472746,2024-03-06,Dumbells,177.69
+Dan Lewis,+19351137482,2024-03-07,Children's Book,11.5
+Kevin Martin,+13827809373,2024-03-07,Wine,44.66
+Sarah White,+13198029925,2024-03-08,Plant,66.95
+Helen Brown,+12687713765,2024-03-09,Dress,25.09
+Nina Johnson,+13577826797,2024-03-09,Foundation,36.42
+Luke Lewis,+17632676346,2024-03-10,Smartwatch,715.35
+Amy Wilson,+12474469827,2024-03-10,Chocolate,111.55
+Tom Jackson,+12023516681,2024-03-12,Sweater,121.66
+Kevin Harris,+10219107712,2024-03-12,Lipstick,41.0
+Jake Taylor,+19628745058,2024-03-13,Dumbells,238.62
+Olivia Davis,+19794266238,2024-03-13,Sweater,83.29
+Alex Lewis,+15295332903,2024-03-14,Coffee Maker,119.14
+Anna Wilson,+12359562797,2024-03-14,Wine,63.48
+Lucy White,+12357511519,2024-03-14,Running Shoes,138.31
+Sarah Davis,+12535532612,2024-03-15,Bluetooth Speaker,416.44
+Anna Johnson,+14437500914,2024-03-15,Fiction Novel,13.5
+Amy Davis,+18068056500,2024-03-16,Bluetooth Speaker,400.54
+Alex Thomas,+19307445188,2024-03-17,Chocolate,37.28
+Sam Jackson,+18475533563,2024-03-17,Tea,48.79
+Nina Smith,+18890031829,2024-03-19,Yoga Mat,42.23
+Tom Jackson,+12023516681,2024-03-22,Candle,142.38
+Tom White,+11117296120,2024-03-22,Basketball,233.95
+Olivia Davis,+16232860574,2024-03-22,Children's Book,22.93
+Mike Brown,+11125687650,2024-03-23,Jacket,174.46
+Helen Brown,+12687713765,2024-03-24,Tennis Racket,189.28
+Mike Johnson,+12947007311,2024-03-26,Chocolate,53.2
+Maria Harris,+17907780083,2024-03-27,Nail Polish,37.01
+Kate Lewis,+12132093466,2024-03-27,Biography,47.63
+Sarah Wilson,+17787237095,2024-03-27,Shampoo,84.57
+Sophie Martinez,+16223008200,2024-03-28,Laptop,842.68
+Helen Rodriguez,+17561871473,2024-03-28,Jeans,32.41
+Alex Lewis,+15295332903,2024-03-29,Candle,56.97
+Emma Anderson,+18433695159,2024-03-30,Running Shoes,203.3
+Julia Thomas,+19269005147,2024-03-31,Lamp,115.12
+Cara White,+17731238450,2024-04-01,Olive Oil,68.11
+Helen Jackson,+19988127943,2024-04-01,Vacuum Cleaner,27.71
+Lucy White,+12357511519,2024-04-02,Sweater,19.02
+Kate Lewis,+10472012923,2024-04-02,Headphones,684.27
+Kate Smith,+18420188869,2024-04-04,Water Bottle,336.45
+Sarah White,+13198029925,2024-04-04,Lipstick,44.27
+James Garcia,+12994513083,2024-04-05,Self-Help Book,15.73
+Chris Taylor,+11977997884,2024-04-05,Foundation,28.68
+John Lewis,+15170866755,2024-04-05,Cookbook,44.31
+Jake Lewis,+11353174536,2024-04-05,Headphones,209.28
+Anna Jackson,+11147407646,2024-04-06,T-Shirt,34.14
+Julia Garcia,+18583666276,2024-04-06,Plant,98.88
+Olivia Davis,+16232860574,2024-04-07,Blanket,148.18
+Sophie Smith,+12087623244,2024-04-10,Olive Oil,89.48
+Chris Brown,+12902571215,2024-04-10,Biography,31.41
+Mark Johnson,+11760814299,2024-04-11,Blanket,74.47
+Lucy Johnson,+11829710017,2024-04-12,T-Shirt,77.71
+David Wilson,+19560472746,2024-04-12,Dress,72.51
+Sophie Johnson,+16909635463,2024-04-13,Tennis Racket,328.28
+Amy Clark,+16173983526,2024-04-14,Shoes,37.13
+Dan Lewis,+19351137482,2024-04-14,Bluetooth Speaker,617.02
+Nina Johnson,+13577826797,2024-04-14,Dumbells,122.58
+John Johnson,+10042051360,2024-04-15,Basketball,81.17
+Jake Miller,+12624027603,2024-04-15,Dress,110.16
+Sophie Wilson,+15012762282,2024-04-15,Jacket,38.44
+Jake Martinez,+12200351978,2024-04-16,Tennis Racket,179.05
+Tom Davis,+14469465496,2024-04-17,Organic Coffee,17.94
+Maria Martinez,+14265012126,2024-04-17,Blanket,153.34
+Sarah White,+13198029925,2024-04-17,Shoes,138.63
+Sam White,+10431545039,2024-04-17,Snacks,85.54
+Sarah Anderson,+18365281573,2024-04-17,Biography,42.17
+Anna Martin,+12857916233,2024-04-18,Plant,111.76
+Amy Davis,+18068056500,2024-04-18,Cookbook,35.18
+Sam Jackson,+18475533563,2024-04-19,Jacket,151.15
+Dan Lewis,+19351137482,2024-04-20,Water Bottle,235.69
+David Moore,+15056554029,2024-04-20,Laptop,450.46
+Sam Moore,+13632031862,2024-04-22,Lamp,60.05
+Peter Thomas,+15253230076,2024-04-23,Sweater,27.11
+Olivia Jackson,+19433559612,2024-04-23,Wine,74.85
+Sophie Wilson,+15012762282,2024-04-26,Jeans,90.71
+Jake Lewis,+11353174536,2024-04-27,Bluetooth Speaker,892.45
+Kate Smith,+18420188869,2024-04-27,Water Bottle,264.63
+Cara Harris,+16473695168,2024-04-27,Face Cream,52.91
+Kevin Martin,+13827809373,2024-04-28,Self-Help Book,22.09
+Emma Miller,+12032642587,2024-04-28,Self-Help Book,59.03
+Cara Miller,+11734308879,2024-04-29,Dress,53.98
+Emma Miller,+12032642587,2024-04-29,Pillow,35.21
+Peter Thomas,+19417397237,2024-04-30,Biography,34.06
+Lisa Brown,+11998031170,2024-04-30,Jacket,106.15
+Lisa Lewis,+10651731114,2024-04-30,Foundation,64.26
+Sarah Wilson,+10266520655,2024-05-01,Children's Book,15.72
+James Garcia,+12994513083,2024-05-01,Plant,169.76
+Amy Clark,+16173983526,2024-05-02,Fiction Novel,20.22
+Cara Harris,+16473695168,2024-05-02,Water Bottle,86.87
+Lucy Clark,+13691362032,2024-05-02,Shampoo,97.12
+Maria Clark,+16887560313,2024-05-02,Smartphone,368.94
+Chris Brown,+12902571215,2024-05-03,Bluetooth Speaker,390.62
+Julia Thomas,+19269005147,2024-05-04,Chocolate,68.96
+Nina Taylor,+15797339650,2024-05-04,Bluetooth Speaker,319.19
+Lucy Clark,+13691362032,2024-05-05,Cheese,84.98
+Luke Lewis,+17632676346,2024-05-06,Shampoo,75.55
+Kate Lewis,+12132093466,2024-05-06,Dumbells,142.81
+James Smith,+16890811761,2024-05-08,Coffee Maker,184.98
+Sarah White,+13198029925,2024-05-08,Biography,35.96
+Olivia Robinson,+11783649634,2024-05-09,Water Bottle,41.09
+Lucy Clark,+13691362032,2024-05-10,Children's Book,35.53
+Jake Miller,+12624027603,2024-05-10,Water Bottle,48.75
+Julia Johnson,+16299939370,2024-05-12,Snacks,20.1
+Julia Garcia,+18583666276,2024-05-12,Wine,61.52
+Nina Clark,+14765782723,2024-05-13,Candle,138.53
+Sam Moore,+13632031862,2024-05-13,Dress,130.65
+Sarah White,+13198029925,2024-05-13,Tea,18.06
+Mike Brown,+11125687650,2024-05-13,Snacks,66.55
+Mike Johnson,+12947007311,2024-05-13,Children's Book,38.42
+Emma Anderson,+18433695159,2024-05-14,Running Shoes,153.34
+Peter Thomas,+15253230076,2024-05-15,Wine,22.92
+Lucy Thomas,+11449339330,2024-05-16,Water Bottle,62.87
+Alex Rodriguez,+17291910589,2024-05-17,Dumbells,244.6
+Amy Miller,+14182409465,2024-05-17,Sweater,82.97
+Sarah Miller,+16862934692,2024-05-18,T-Shirt,20.25
+Alex Lewis,+15295332903,2024-05-18,Organic Coffee,73.51
+Mike Martinez,+13036371310,2024-05-19,Face Cream,92.18
+Olivia Robinson,+11783649634,2024-05-20,Pillow,71.14
+Sam White,+10431545039,2024-05-20,Foundation,85.26
+Chris Smith,+13245755299,2024-05-20,Plant,119.21
+Lucy Jackson,+11946049311,2024-05-21,Chocolate,77.43
+Jake Anderson,+18962762699,2024-05-21,Headphones,434.45
+Lucy Johnson,+11829710017,2024-05-22,Shoes,57.66
+Mike Brown,+11125687650,2024-05-23,Candle,92.24
+Julia Johnson,+16299939370,2024-05-24,Shampoo,111.08
+Jake Taylor,+19628745058,2024-05-24,Yoga Mat,156.55
+Alex Johnson,+18143430400,2024-05-25,Shoes,86.69
+Sophie Smith,+12087623244,2024-05-26,Gaming Console,316.23
+Helen Jackson,+19988127943,2024-05-28,Fiction Novel,11.27
+Olivia White,+10514408566,2024-05-30,Nail Polish,104.85
+Mike Miller,+16552886207,2024-06-01,Organic Coffee,59.17
+Alex Davis,+11642211937,2024-06-01,Foundation,144.1
+Lisa Lewis,+10651731114,2024-06-01,Shampoo,55.65
+David Wilson,+19560472746,2024-06-02,Chocolate,30.79
+Emma Harris,+19865138694,2024-06-03,Headphones,387.11
+Alex Davis,+19619920226,2024-06-04,Self-Help Book,14.76
+Olivia Davis,+16232860574,2024-06-04,Wine,79.8
+Lucy Jackson,+11946049311,2024-06-04,Shampoo,87.49
+Kate Lewis,+12132093466,2024-06-04,Biography,24.75
+Helen Jackson,+19988127943,2024-06-05,Organic Coffee,71.82
+Kate Smith,+11216724320,2024-06-05,Shoes,43.67
+Lisa Jackson,+19366395273,2024-06-05,Plant,208.57
+Alex Wilson,+16022134793,2024-06-05,Jacket,109.43
+Cara Robinson,+16971559740,2024-06-06,Gaming Console,405.08
+Julia Martinez,+14719760524,2024-06-06,Snacks,74.54
+Jake Anderson,+18962762699,2024-06-07,Blanket,152.53
+Kevin Martin,+13827809373,2024-06-07,Sweater,155.81
+Sarah Davis,+12535532612,2024-06-07,Jeans,115.26
+Sarah Rodriguez,+13224922397,2024-06-09,Scarf,44.0
+Alex Rodriguez,+17291910589,2024-06-09,Perfume,33.84
+Alex Lewis,+12877893629,2024-06-09,Vacuum Cleaner,199.03
+Nina Taylor,+15797339650,2024-06-09,Tennis Racket,99.39
+Tom Martinez,+15625581066,2024-06-10,Tablet,131.33
+Anna Johnson,+14437500914,2024-06-11,Gaming Console,821.06
+Mark Rodriguez,+12918029292,2024-06-13,Technical Manual,43.19
+Olivia Robinson,+11783649634,2024-06-13,Jacket,34.84
+Kevin Martin,+13827809373,2024-06-14,Tea,75.12
+Sarah Anderson,+18365281573,2024-06-14,Chocolate,57.27
+Lucy White,+12450388602,2024-06-15,Fiction Novel,63.05
+Olivia Robinson,+11783649634,2024-06-15,Plant,149.84
+Sam Jackson,+18475533563,2024-06-16,Self-Help Book,45.35
+Amy Miller,+14182409465,2024-06-17,Sweater,156.41
+Ryan Miller,+19814553438,2024-06-17,Vacuum Cleaner,129.49
+David Moore,+12741432432,2024-06-17,Running Shoes,76.94
+Sarah Davis,+12535532612,2024-06-17,Jacket,224.08
+Sarah Jackson,+17926432624,2024-06-18,Chocolate,66.25
+Helen Jackson,+19988127943,2024-06-21,T-Shirt,170.19
+Nina Rodriguez,+10139013039,2024-06-21,Technical Manual,45.79
+Sarah Wilson,+10266520655,2024-06-22,Running Shoes,354.77
+Alex Johnson,+18143430400,2024-06-22,Shampoo,152.54
+David Moore,+12741432432,2024-06-23,Tablet,397.19
+Peter Wilson,+12666181720,2024-06-23,Technical Manual,70.3
+Maria Harris,+17907780083,2024-06-25,Shoes,174.85
+Tom Davis,+14469465496,2024-06-26,T-Shirt,127.37
+John White,+12614382614,2024-06-26,Shoes,40.71
+David Moore,+12741432432,2024-06-27,Gaming Console,1126.09
+Lucy White,+12450388602,2024-06-28,Smartphone,317.17
+Emma Miller,+12032642587,2024-06-29,Wine,49.89
+John Martinez,+11515019937,2024-06-29,Olive Oil,94.82
+Sarah Jackson,+17926432624,2024-07-02,Snacks,87.03
+Mike Wilson,+19920269370,2024-07-02,Shampoo,84.06
+Mike Johnson,+12947007311,2024-07-03,Dress,48.55
+Zoe Smith,+12623069039,2024-07-03,Self-Help Book,67.53
+Alex Johnson,+18902087749,2024-07-04,Children's Book,41.91
+Kate Smith,+18420188869,2024-07-05,Lamp,141.53
+Sarah Davis,+12535532612,2024-07-06,Face Cream,86.58
+Cara Harris,+16473695168,2024-07-06,Fiction Novel,46.29
+Amy Miller,+14182409465,2024-07-07,Snacks,14.57
+Chris Brown,+12902571215,2024-07-08,Self-Help Book,35.64
+Mark Rodriguez,+12918029292,2024-07-08,Pillow,298.76
+Lucy Jackson,+11946049311,2024-07-09,Lamp,46.06
+Mark Rodriguez,+12918029292,2024-07-09,Biography,40.32
+Peter Wilson,+12666181720,2024-07-11,Shoes,178.75
+Nina Rodriguez,+10139013039,2024-07-12,Fiction Novel,24.67
+Sophie Johnson,+16909635463,2024-07-12,Vacuum Cleaner,41.98
+Lisa Jackson,+19366395273,2024-07-13,Tablet,346.1
+John Davis,+15994981983,2024-07-13,Smartphone,677.84
+Alex Lewis,+15295332903,2024-07-13,Laptop,348.12
+Sarah White,+13198029925,2024-07-15,Wine,41.79
+Julia Thomas,+19269005147,2024-07-15,Laptop,525.33
+Emma Anderson,+18433695159,2024-07-15,T-Shirt,162.15
+Anna Jackson,+11147407646,2024-07-15,Basketball,51.77
+Alex Davis,+19619920226,2024-07-15,Scarf,110.52
+Amy Clark,+16173983526,2024-07-16,Lipstick,103.54
+Lisa Moore,+17999316520,2024-07-17,Chocolate,60.97
+Ryan Clark,+14391263579,2024-07-17,Coffee Maker,201.54
+Mike Martin,+13312182912,2024-07-17,Hat,59.89
+John Johnson,+10042051360,2024-07-17,Jacket,134.55
+Mike Johnson,+12947007311,2024-07-18,Smartwatch,607.44
+Ryan Clark,+14391263579,2024-07-19,Running Shoes,271.74
+Sophie Johnson,+16909635463,2024-07-20,T-Shirt,23.67
+James Smith,+16890811761,2024-07-21,Smartwatch,1187.48
+James Smith,+16890811761,2024-07-21,Olive Oil,99.72
+Nina Johnson,+13577826797,2024-07-21,Bluetooth Speaker,756.32
+Luke Wilson,+15515747726,2024-07-22,Tablet,515.06
+John Johnson,+10042051360,2024-07-22,Pillow,247.69
+Julia Martinez,+14719760524,2024-07-23,Gaming Console,512.79
+Mike Wilson,+19920269370,2024-07-23,Snacks,64.09
+Sarah Wilson,+10266520655,2024-07-23,Perfume,85.67
+Alex Lewis,+15295332903,2024-07-23,Pillow,158.18
+Mike Miller,+16552886207,2024-07-23,Headphones,663.21
+James Smith,+16890811761,2024-07-24,Hat,120.85
+Alex Thomas,+19307445188,2024-07-25,Perfume,45.91
+Sarah Anderson,+18365281573,2024-07-25,Fiction Novel,46.78
+Peter Thomas,+15253230076,2024-07-25,Smartphone,596.34
+Sarah Thomas,+18685168163,2024-07-28,Biography,27.3
+Tom White,+11117296120,2024-07-29,Basketball,309.86
+John Martinez,+14676515785,2024-07-29,Tablet,895.04
+Olivia Wilson,+11658126734,2024-07-30,Hat,177.3
+Emma Harris,+19865138694,2024-07-31,Coffee Maker,216.1
+David Moore,+12741432432,2024-08-01,Wine,82.2
+Mark Robinson,+11791059722,2024-08-02,Coffee Maker,26.72
+Emma Miller,+12032642587,2024-08-02,Blanket,138.63
+Sarah Wilson,+10266520655,2024-08-03,Running Shoes,389.87
+Peter Thomas,+15253230076,2024-08-04,Headphones,279.7
+Sarah Wilson,+10266520655,2024-08-04,Smartphone,267.83
+Chris Davis,+14728027638,2024-08-05,Children's Book,54.26
+Peter Wilson,+12666181720,2024-08-06,Self-Help Book,36.85
+Sarah Brown,+19029947914,2024-08-06,Water Bottle,138.6
+Kevin Rodriguez,+18572734852,2024-08-07,Headphones,516.01
+Mike Robinson,+14940997928,2024-08-07,Lipstick,60.8
+Lucy Jackson,+11946049311,2024-08-07,Organic Coffee,40.19
+Lucy White,+12357511519,2024-08-07,Lamp,214.31
+Jake Taylor,+19628745058,2024-08-07,Blanket,175.09
+Jake Martinez,+12200351978,2024-08-08,Organic Coffee,55.0
+Maria Harris,+17907780083,2024-08-09,Technical Manual,44.53
+Julia Garcia,+18583666276,2024-08-09,Yoga Mat,189.0
+Sarah Rodriguez,+13224922397,2024-08-11,Chocolate,74.39
+Jake Miller,+12624027603,2024-08-12,Gaming Console,677.79
+Tom White,+11117296120,2024-08-14,Cookbook,15.4
+Olivia Jackson,+19433559612,2024-08-14,Water Bottle,288.48
+Alex Wilson,+16022134793,2024-08-15,Smartphone,392.93
+Dan Lewis,+19351137482,2024-08-15,Headphones,504.52
+Helen Jackson,+19988127943,2024-08-15,Cookbook,44.8
+Julia Garcia,+18583666276,2024-08-15,Face Cream,44.51
+Lucy Jackson,+11946049311,2024-08-17,Tea,63.16
+Sarah Rodriguez,+13224922397,2024-08-17,Hat,60.47
+Jake Anderson,+18962762699,2024-08-18,Tablet,641.52
+Helen Brown,+12687713765,2024-08-18,Lamp,103.43
+Anna Martinez,+13226647001,2024-08-18,Lipstick,96.61
+Helen Brown,+12687713765,2024-08-19,Dumbells,66.75
+Tom Martinez,+15625581066,2024-08-19,Chocolate,23.27
+Julia Martin,+11520507391,2024-08-19,Dumbells,253.07
+Nina Rodriguez,+10139013039,2024-08-19,Fiction Novel,52.75
+John White,+12614382614,2024-08-20,Hat,93.78
+Sarah Brown,+19929816665,2024-08-20,Lipstick,48.01
+Cara Wilson,+15595238060,2024-08-23,Bluetooth Speaker,766.66
+Julia Johnson,+16299939370,2024-08-23,Organic Coffee,83.55
+Helen Brown,+12687713765,2024-08-24,Vacuum Cleaner,184.96
+Cara Harris,+16473695168,2024-08-26,Scarf,58.51
+Nina Clark,+14765782723,2024-08-26,Shoes,33.12
+Chris Davis,+14728027638,2024-08-26,Tennis Racket,262.4
+Helen Jackson,+19988127943,2024-08-27,Pillow,124.24
+Cara Robinson,+16971559740,2024-08-29,Headphones,412.12
+Sam Moore,+13632031862,2024-08-30,Shampoo,78.18
+Mark Robinson,+11791059722,2024-08-31,Gaming Console,506.52
+Olivia Wilson,+11658126734,2024-08-31,Self-Help Book,27.44
+Kate Lewis,+12132093466,2024-09-01,Yoga Mat,184.97
+Tom White,+11117296120,2024-09-01,Shoes,94.02
+Emma Miller,+12032642587,2024-09-01,Foundation,15.72
+John Thomas,+10009467738,2024-09-02,Perfume,18.36
+Amy Wilson,+12474469827,2024-09-03,Face Cream,36.33
+Tom Davis,+14469465496,2024-09-03,Blanket,63.74
+Mike Wilson,+19920269370,2024-09-03,Coffee Maker,129.96
+Olivia Wilson,+11658126734,2024-09-04,Snacks,45.02
+Olivia Jackson,+19433559612,2024-09-04,Jeans,117.33
+Anna Martinez,+19157514137,2024-09-04,Coffee Maker,125.25
+Amy Miller,+14182409465,2024-09-05,Coffee Maker,111.91
+Nina Taylor,+15797339650,2024-09-05,Lipstick,78.67
+Tom Martinez,+15625581066,2024-09-05,Wine,10.01
+Sam White,+10431545039,2024-09-06,Dress,56.77
+Sarah Brown,+19029947914,2024-09-07,Lamp,59.76
+Alex Davis,+19619920226,2024-09-07,Biography,17.58
+Amy Brown,+15106477678,2024-09-07,Technical Manual,50.11
+Maria Clark,+16887560313,2024-09-07,Pillow,188.27
+Luke Martinez,+16073706041,2024-09-08,Wine,95.15
+Sophie Smith,+12087623244,2024-09-08,Jacket,84.21
+Sarah Brown,+19929816665,2024-09-10,Headphones,162.49
+Cara White,+17731238450,2024-09-10,Sweater,151.52
+John Thomas,+10009467738,2024-09-11,T-Shirt,107.7
+Amy Davis,+18068056500,2024-09-11,Laptop,319.83
+Tom Martinez,+15625581066,2024-09-11,Technical Manual,35.71
+Alex Lewis,+12877893629,2024-09-14,Lipstick,95.37
+Maria Clark,+16887560313,2024-09-14,Dumbells,139.92
+Anna Martinez,+13226647001,2024-09-15,Tennis Racket,152.71
+Sophie Rodriguez,+15015765990,2024-09-15,Coffee Maker,24.28
+Kevin Rodriguez,+18572734852,2024-09-16,Dumbells,229.26
+David Moore,+15056554029,2024-09-17,Water Bottle,49.78
+Sarah Wilson,+17787237095,2024-09-17,Fiction Novel,38.62
+Helen Brown,+12687713765,2024-09-18,Yoga Mat,300.54
+David Wilson,+19560472746,2024-09-19,Cheese,44.24
+Mike Wilson,+19920269370,2024-09-20,Olive Oil,28.64
+Luke Lewis,+17632676346,2024-09-20,Jeans,108.92
+Helen Brown,+12687713765,2024-09-22,Shampoo,26.02
+Nina Johnson,+13577826797,2024-09-22,Yoga Mat,169.11
+Ryan Clark,+14391263579,2024-09-22,Biography,24.26
+John Jackson,+15340352714,2024-09-23,Dumbells,138.34
+Lisa Moore,+17999316520,2024-09-24,T-Shirt,153.72
+Olivia Davis,+19794266238,2024-09-25,Children's Book,28.87
+Amy Wilson,+11124114760,2024-09-26,Children's Book,42.21
+Amy Wilson,+12474469827,2024-09-26,Perfume,105.35
+Jake Taylor,+19628745058,2024-09-26,Coffee Maker,166.02
+Mark Jackson,+16823018551,2024-09-26,Dumbells,321.96
+Olivia Davis,+16232860574,2024-09-27,Pillow,234.98
+Sarah Smith,+19016349380,2024-09-27,Water Bottle,48.49
+Alex Lewis,+15295332903,2024-09-28,Face Cream,51.21
+Lucy White,+12357511519,2024-09-29,Lamp,27.82
+Anna Jackson,+11147407646,2024-09-29,Dumbells,342.31
+Alex Thomas,+19307445188,2024-09-29,Perfume,39.11
+James Garcia,+12994513083,2024-09-29,Blanket,36.22
+Dan Lewis,+19351137482,2024-09-30,Olive Oil,14.76
